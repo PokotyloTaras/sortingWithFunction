@@ -22,4 +22,4 @@ function sorted() {
     console.log("Sorteed:", sortedNumArr)
 }
 
-sorted();
+return sorted()
